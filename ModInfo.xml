@@ -1,0 +1,3 @@
+<mod displayName="Space Stage Crash Fix" unique="chocice_fixingaspacestagecrash" description="A mod that fixes a somewhat common crash in the space-stage." installerSystemVersion="1.0.1.1" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<prerequisite>Spore-SpaceStageCrashFix.dll</prerequisite>
+</mod>
